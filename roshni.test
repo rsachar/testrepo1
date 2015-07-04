@@ -1,3 +1,4 @@
 #!/bin/ksh
 
 print "Hi"
+print "i am just testing this out "
